@@ -1,0 +1,651 @@
+Generalist 
+Cardiology
+Dermatology
+Endocrinology**
+Gastroenterology**
+Hematology
+Immunology
+Infectious Disease
+Nephrology
+Neurology
+Oncology
+Ophthalmology
+Orthopedics
+Otolaryngology (ENT)
+Pediatrics
+Psychiatry
+Pulmonology
+Radiology
+Rheumatology
+Urology
+Anesthesiology
+Pathology
+Obstetrics and Gynecology (OB/GYN)
+Plastic Surgery
+Emergency Medicine
+Family Medicine
+Geriatrics
+General Surgery
+Internal Medicine
+Sports Medicine
+Allergy and Immunology  
+
+
+
+
+
+
+Specialist
+Cardiology
+Dermatology
+Endocrinology
+Gastroenterology
+Hematology
+Immunology
+Infectious Disease
+Nephrology
+Neurology
+Oncology
+Ophthalmology
+Orthopedics
+Otolaryngology (ENT)
+Pediatrics
+Psychiatry
+Pulmonology
+Radiology
+Rheumatology
+Urology
+Anesthesiology
+Pathology
+ Obstetrics and Gynecology (OB/GYN)
+ Plastic Surgery
+Emergency Medicine
+Family Medicine
+Geriatrics
+General Surgery
+Internal Medicine
+Sports Medicine
+Allergy and Immunology
+Hepatology
+Vascular Surgery
+Neonatology
+Palliative Care
+Reproductive Endocrinology and Infertility
+Interventional Radiology
+Sleep Medicine
+Critical Care Medicine
+Occupational Medicine
+Clinical Genetics
+
+
+
+
+
+Micro-specialité
+1. *Cardiology*
+   - Interventional Cardiology
+   - Electrophysiology
+   - Pediatric Cardiology
+   - Heart Failure and Transplant Cardiology
+   - Preventive Cardiology
+
+2. *Dermatology*
+   - Cosmetic Dermatology
+   - Dermatopathology
+   - Pediatric Dermatology
+   - Mohs Surgery
+   - Immunodermatology
+
+3. *Endocrinology*
+   - Diabetology
+   - Thyroid Disorders
+   - Adrenal Disorders
+   - Pituitary Disorders
+   - Reproductive Endocrinology
+
+4. *Gastroenterology*
+   - Hepatology
+   - Inflammatory Bowel Disease
+   - Pancreatology
+   - Endoscopy
+   - Pediatric Gastroenterology
+
+5. *Hematology*
+   - Malignant Hematology
+   - Coagulation Disorders
+   - Anemia
+   - Bone Marrow Transplantation
+   - Pediatric Hematology
+
+6. *Immunology*
+   - Immunodeficiency Disorders
+   - Autoimmune Diseases
+   - Allergy
+   - Transplant Immunology
+   - Pediatric Immunology
+
+7. *Infectious Disease*
+   - Viral Infections
+   - Bacterial Infections
+   - Fungal Infections
+   - Parasitic Infections
+   - Travel Medicine
+
+8. *Nephrology*
+   - Chronic Kidney Disease
+   - Dialysis
+   - Kidney Transplantation
+   - Glomerular Diseases
+   - Pediatric Nephrology
+
+9. *Neurology*
+   - Stroke
+   - Epilepsy
+   - Neurodegenerative Diseases
+   - Movement Disorders
+   - Pediatric Neurology
+
+10. *Oncology*
+    - Breast Cancer
+    - Lung Cancer
+    - Gastrointestinal Cancer
+    - Hematologic Oncology
+    - Pediatric Oncology
+
+11. *Ophthalmology*
+    - Retinal Surgery
+    - Corneal Diseases
+    - Glaucoma
+    - Pediatric Ophthalmology
+    - Oculoplastic Surgery
+
+12. *Orthopedics*
+    - Sports Medicine
+    - Spine Surgery
+    - Hand Surgery
+    - Pediatric Orthopedics
+    - Joint Replacement Surgery
+
+13. *Otolaryngology (ENT)*
+    - Head and Neck Surgery
+    - Otology/Neurotology
+    - Rhinology
+    - Laryngology
+    - Pediatric ENT
+
+14. *Pediatrics*
+    - Developmental Pediatrics
+    - Pediatric Emergency Medicine
+    - Pediatric Pulmonology
+    - Pediatric Cardiology
+    - Pediatric Endocrinology
+
+15. *Psychiatry*
+    - Child and Adolescent Psychiatry
+    - Forensic Psychiatry
+    - Psychosomatic Medicine
+    - Geriatric Psychiatry
+    - Addiction Psychiatry
+
+16. *Pulmonology*
+    - Chronic Obstructive Pulmonary Disease (COPD)
+    - Asthma
+    - Interstitial Lung Disease
+    - Pulmonary Hypertension
+    - Pediatric Pulmonology
+
+17. *Radiology*
+    - Diagnostic Radiology
+    - Interventional Radiology
+    - Neuroradiology
+    - Pediatric Radiology
+    - Breast Imaging
+
+18. *Rheumatology*
+    - Rheumatoid Arthritis
+    - Lupus
+    - Spondyloarthritis
+    - Vasculitis
+    - Pediatric Rheumatology
+
+19. *Urology*
+    - Urologic Oncology
+    - Pediatric Urology
+    - Female Urology
+    - Male Infertility
+    - Endourology
+
+20. *Anesthesiology*
+    - Cardiac Anesthesia
+    - Pediatric Anesthesia
+    - Obstetric Anesthesia
+    - Pain Management
+    - Critical Care Anesthesia
+
+21. *Pathology*
+    - Anatomic Pathology
+    - Clinical Pathology
+    - Molecular Pathology
+    - Forensic Pathology
+    - Dermatopathology
+
+22. *Obstetrics and Gynecology (OB/GYN)*
+    - Maternal-Fetal Medicine
+    - Gynecologic Oncology
+    - Reproductive Endocrinology
+    - Urogynecology
+    - Pediatric and Adolescent Gynecology
+
+23. *Plastic Surgery*
+    - Craniofacial Surgery
+    - Hand Surgery
+    - Burn Surgery
+    - Aesthetic Surgery
+    - Microsurgery
+
+24. *Emergency Medicine*
+    - Pediatric Emergency Medicine
+    - Toxicology
+    - Disaster Medicine
+    - Sports Medicine
+    - Emergency Medical Services (EMS)
+
+25. *Family Medicine*
+    - Geriatric Medicine
+    - Adolescent Medicine
+    - Sports Medicine
+    - Palliative Care
+    - Preventive Medicine
+
+26. *Geriatrics*
+    - Geriatric Psychiatry
+    - Geriatric Cardiology
+    - Geriatric Neurology
+    - Geriatric Endocrinology
+    - Geriatric Oncology
+
+27. *General Surgery*
+    - Trauma Surgery
+    - Colorectal Surgery
+    - Hepatobiliary Surgery
+    - Breast Surgery
+    - Endocrine Surgery
+
+28. *Internal Medicine*
+    - Hospital Medicine
+    - Geriatric Medicine
+    - Palliative Care
+    - Infectious Disease
+    - Endocrinology
+
+29. *Sports Medicine*
+    - Orthopedic Sports Medicine
+    - Primary Care Sports Medicine
+    - Sports Cardiology
+    - Sports Nutrition
+    - Sports Psychology
+
+30. *Allergy and Immunology*
+    - Pediatric Allergy
+    - Clinical Immunology
+    - Asthma
+    - Drug Allergy
+    - Food Allergy
+
+31. *Hepatology*
+    - Viral Hepatitis
+    - Liver Transplantation
+    - Cirrhosis
+    - Fatty Liver Disease
+    - Pediatric Hepatology
+
+32. *Vascular Surgery*
+    - Endovascular Surgery
+    - Venous Surgery
+    - Pediatric Vascular Surgery
+    - Aortic Surgery
+    - Peripheral Vascular Surgery
+
+33. *Neonatology*
+    - Neonatal Intensive Care
+    - Neonatal Cardiology
+    - Neonatal Neurology
+    - Neonatal Pulmonology
+    - Neonatal Surgery
+
+34. *Palliative Care*
+    - Pediatric Palliative Care
+    - Geriatric Palliative Care
+    - Oncology Palliative Care
+    - Palliative Psychiatry
+    - Pain Management
+
+35. *Reproductive Endocrinology and Infertility*
+    - Assisted Reproductive Technology
+    - Hormonal Disorders
+    - Recurrent Pregnancy Loss
+    - Male Infertility
+    - Polycystic Ovary Syndrome (PCOS)
+
+36. *Interventional Radiology*
+    - Vascular Interventions
+    - Oncology Interventions
+    - Neurointerventions
+    - Musculoskeletal Interventions
+    - Pediatric Interventions
+
+37. *Sleep Medicine*
+    - Sleep Apnea
+    - Insomnia
+    - Narcolepsy
+    - Restless Legs Syndrome
+    - Pediatric Sleep Disorders
+
+38. *Critical Care Medicine*
+    - Surgical Critical Care
+    - Neurological Critical Care
+    - Cardiovascular Critical Care
+    - Pediatric Critical Care
+    - Trauma Critical Care
+
+39. *Occupational Medicine*
+    - Industrial Medicine
+    - Environmental Medicine
+    - Travel Medicine
+    - Aviation Medicine
+    - Military Medicine
+
+40. *Clinical Genetics*
+    - Cancer Genetics
+    - Cardiovascular Genetics
+    - Neurogenetics
+    - Metabolic Genetics
+    - Prenatal Genetics
+
+
+
+
+
+
+const subspecialties = {
+    Cardiology: [
+      "Interventional Cardiology",
+      "Electrophysiology",
+      "Pediatric Cardiology",
+      "Heart Failure and Transplant Cardiology",
+      "Preventive Cardiology"
+    ],
+    Dermatology: [
+      "Cosmetic Dermatology",
+      "Dermatopathology",
+      "Pediatric Dermatology",
+      "Mohs Surgery",
+      "Immunodermatology"
+    ],
+    Endocrinology: [
+      "Diabetology",
+      "Thyroid Disorders",
+      "Adrenal Disorders",
+      "Pituitary Disorders",
+      "Reproductive Endocrinology"
+    ],
+    Gastroenterology: [
+      "Hepatology",
+      "Inflammatory Bowel Disease",
+      "Pancreatology",
+      "Endoscopy",
+      "Pediatric Gastroenterology"
+    ],
+    Hematology: [
+      "Malignant Hematology",
+      "Coagulation Disorders",
+      "Anemia",
+      "Bone Marrow Transplantation",
+      "Pediatric Hematology"
+    ],
+    Immunology: [
+      "Immunodeficiency Disorders",
+      "Autoimmune Diseases",
+      "Allergy",
+      "Transplant Immunology",
+      "Pediatric Immunology"
+    ],
+    InfectiousDisease: [
+      "Viral Infections",
+      "Bacterial Infections",
+      "Fungal Infections",
+      "Parasitic Infections",
+      "Travel Medicine"
+    ],
+    Nephrology: [
+      "Chronic Kidney Disease",
+      "Dialysis",
+      "Kidney Transplantation",
+      "Glomerular Diseases",
+      "Pediatric Nephrology"
+    ],
+    Neurology: [
+      "Stroke",
+      "Epilepsy",
+      "Neurodegenerative Diseases",
+      "Movement Disorders",
+      "Pediatric Neurology"
+    ],
+    Oncology: [
+      "Breast Cancer",
+      "Lung Cancer",
+      "Gastrointestinal Cancer",
+      "Hematologic Oncology",
+      "Pediatric Oncology"
+    ],
+    Ophthalmology: [
+      "Retinal Surgery",
+      "Corneal Diseases",
+      "Glaucoma",
+      "Pediatric Ophthalmology",
+      "Oculoplastic Surgery"
+    ],
+    Orthopedics: [
+      "Sports Medicine",
+      "Spine Surgery",
+      "Hand Surgery",
+      "Pediatric Orthopedics",
+      "Joint Replacement Surgery"
+    ],
+    OtolaryngologyENT: [
+      "Head and Neck Surgery",
+      "Otology/Neurotology",
+      "Rhinology",
+      "Laryngology",
+      "Pediatric ENT"
+    ],
+    Pediatrics: [
+      "Developmental Pediatrics",
+      "Pediatric Emergency Medicine",
+      "Pediatric Pulmonology",
+      "Pediatric Cardiology",
+      "Pediatric Endocrinology"
+    ],
+    Psychiatry: [
+      "Child and Adolescent Psychiatry",
+      "Forensic Psychiatry",
+      "Psychosomatic Medicine",
+      "Geriatric Psychiatry",
+      "Addiction Psychiatry"
+    ],
+    Pulmonology: [
+      "Chronic Obstructive Pulmonary Disease (COPD)",
+      "Asthma",
+      "Interstitial Lung Disease",
+      "Pulmonary Hypertension",
+      "Pediatric Pulmonology"
+    ],
+    Radiology: [
+      "Diagnostic Radiology",
+      "Interventional Radiology",
+      "Neuroradiology",
+      "Pediatric Radiology",
+      "Breast Imaging"
+    ],
+    Rheumatology: [
+      "Rheumatoid Arthritis",
+      "Lupus",
+      "Spondyloarthritis",
+      "Vasculitis",
+      "Pediatric Rheumatology"
+    ],
+    Urology: [
+      "Urologic Oncology",
+      "Pediatric Urology",
+      "Female Urology",
+      "Male Infertility",
+      "Endourology"
+    ],
+    Anesthesiology: [
+      "Cardiac Anesthesia",
+      "Pediatric Anesthesia",
+      "Obstetric Anesthesia",
+      "Pain Management",
+      "Critical Care Anesthesia"
+    ],
+    Pathology: [
+      "Anatomic Pathology",
+      "Clinical Pathology",
+      "Molecular Pathology",
+      "Forensic Pathology",
+      "Dermatopathology"
+    ],
+    ObstetricsGynecologyOBGYN: [
+      "Maternal-Fetal Medicine",
+      "Gynecologic Oncology",
+      "Reproductive Endocrinology",
+      "Urogynecology",
+      "Pediatric and Adolescent Gynecology"
+    ],
+    PlasticSurgery: [
+      "Craniofacial Surgery",
+      "Hand Surgery",
+      "Burn Surgery",
+      "Aesthetic Surgery",
+      "Microsurgery"
+    ],
+    EmergencyMedicine: [
+      "Pediatric Emergency Medicine",
+      "Toxicology",
+      "Disaster Medicine",
+      "Sports Medicine",
+      "Emergency Medical Services (EMS)"
+    ],
+    FamilyMedicine: [
+      "Geriatric Medicine",
+      "Adolescent Medicine",
+      "Sports Medicine",
+      "Palliative Care",
+      "Preventive Medicine"
+    ],
+    Geriatrics: [
+      "Geriatric Psychiatry",
+      "Geriatric Cardiology",
+      "Geriatric Neurology",
+      "Geriatric Endocrinology",
+      "Geriatric Oncology"
+    ],
+    GeneralSurgery: [
+      "Trauma Surgery",
+      "Colorectal Surgery",
+      "Hepatobiliary Surgery",
+      "Breast Surgery",
+      "Endocrine Surgery"
+    ],
+    InternalMedicine: [
+      "Hospital Medicine",
+      "Geriatric Medicine",
+      "Palliative Care",
+      "Infectious Disease",
+      "Endocrinology"
+    ],
+    SportsMedicine: [
+      "Orthopedic Sports Medicine",
+      "Primary Care Sports Medicine",
+      "Sports Cardiology",
+      "Sports Nutrition",
+      "Sports Psychology"
+    ],
+    AllergyAndImmunology: [
+      "Pediatric Allergy",
+      "Clinical Immunology",
+      "Asthma",
+      "Drug Allergy",
+      "Food Allergy"
+    ],
+    Hepatology: [
+      "Viral Hepatitis",
+      "Liver Transplantation",
+      "Cirrhosis",
+      "Fatty Liver Disease",
+      "Pediatric Hepatology"
+    ],
+    VascularSurgery: [
+      "Endovascular Surgery",
+      "Venous Surgery",
+      "Pediatric Vascular Surgery",
+      "Aortic Surgery",
+      "Peripheral Vascular Surgery"
+    ],
+    Neonatology: [
+      "Neonatal Intensive Care",
+      "Neonatal Cardiology",
+      "Neonatal Neurology",
+      "Neonatal Pulmonology",
+      "Neonatal Surgery"
+    ],
+    PalliativeCare: [
+      "Pediatric Palliative Care",
+      "Geriatric Palliative Care",
+      "Oncology Palliative Care",
+      "Palliative Psychiatry",
+      "Pain Management"
+    ],
+    ReproductiveEndocrinologyAndInfertility: [
+      "Assisted Reproductive Technology",
+      "Hormonal Disorders",
+      "Recurrent Pregnancy Loss",
+      "Male Infertility",
+      "Polycystic Ovary Syndrome (PCOS)"
+    ],
+    InterventionalRadiology: [
+      "Vascular Interventions",
+      "Oncology Interventions",
+      "Neurointerventions",
+      "Musculoskeletal Interventions",
+      "Pediatric Interventions"
+    ],
+    SleepMedicine: [
+      "Sleep Apnea",
+      "Insomnia",
+      "Narcolepsy",
+      "Restless Legs Syndrome",
+      "Pediatric Sleep Disorders"
+    ],
+    CriticalCareMedicine: [
+      "Surgical Critical Care",
+      "Neurological Critical Care",
+      "Cardiovascular Critical Care",
+      "Pediatric Critical Care",
+      "Trauma Critical Care"
+    ],
+    OccupationalMedicine: [
+      "Industrial Medicine",
+      "Environmental Medicine",
+      "Travel Medicine",
+      "Aviation Medicine",
+      "Military Medicine"
+    ],
+    ClinicalGenetics: [
+      "Cancer Genetics",
+      "Cardiovascular Genetics",
+      "Neurogenetics",
+      "Metabolic Genetics",
+      "Prenatal Genetics"
+    ]
+}
