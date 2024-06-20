@@ -16,11 +16,11 @@ header {
     padding: 20px 0;
 }
 
-.header-content h2 a {
+.header-content h2 span {
     color: var(--first-color);
 }
 
-.header-content h2 a:hover {
+.header-content h2 span:hover {
     color: var(--second-color);
 }
 

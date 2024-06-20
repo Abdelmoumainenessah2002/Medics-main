@@ -1,6 +1,7 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { sendPasswordResetEmail } from 'firebase/auth';
 import { auth } from '../database';
+import { useNavigate } from 'react-router-dom';
 import '../css/general.css';
 import '../css/auth.css';
 
@@ -9,6 +10,22 @@ const ForgotPassword = () => {
     const [email, setEmail] = useState('');
     const [message, setMessage] = useState('');
     const [messageType, setMessageType] = useState(''); // 'success' or 'error'
+    const navigate = useNavigate();
+
+    useEffect(() => {
+        // Check if the user is already logged in
+        const userIsLoggedIn = localStorage.getItem('userIsLoggedIn');
+        const userData = JSON.parse(localStorage.getItem('userData'));
+
+        if (userIsLoggedIn && userData) {
+            // Navigate to the appropriate home page
+            if (userData.role === 'doctor') {
+                navigate('/doctors/home');
+            } else if (userData.role === 'sick') {
+                navigate('/sicks/home');
+            }
+        }
+    }, [navigate]);
 
     const handleEmailChange = (event) => {
         setEmail(event.target.value);
@@ -28,20 +45,6 @@ const ForgotPassword = () => {
 
     return (
         <>
-            <header>
-                <div className="container">
-                    <div className="header-content">
-                        <div className="logo">
-                            <h2>
-                                <a href="/">Wasalni</a>
-                            </h2>
-                        </div>
-                        <div className="start">
-                            <a href="login.html" className="start-btn">Sign In</a>
-                        </div>
-                    </div>
-                </div>
-            </header>
             <div className="forgot-pass login">
                 <div className="wrapper">
                     <h2>Reset Password</h2>

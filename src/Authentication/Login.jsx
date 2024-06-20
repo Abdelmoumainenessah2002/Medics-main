@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { signInWithEmailAndPassword } from 'firebase/auth';
 import { doc, getDoc } from 'firebase/firestore';
@@ -8,13 +8,28 @@ import '../css/auth.css';
 
 const Login = () => {
 
-  document.title = "Medics || Login"; // Change the title of the web page
+    document.title = "Medics || Login"; // Change the title of the web page
 
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
     const [message, setMessage] = useState('');
     const [messageType, setMessageType] = useState(''); // 'success' or 'error'
     const navigate = useNavigate();
+
+    useEffect(() => {
+        // Check if the user is already logged in
+        const userIsLoggedIn = localStorage.getItem('userIsLoggedIn');
+        const userData = JSON.parse(localStorage.getItem('userData'));
+
+        if (userIsLoggedIn && userData) {
+            // Navigate to the appropriate home page
+            if (userData.role === 'doctor') {
+                navigate('/doctors/home');
+            } else if (userData.role === 'sick') {
+                navigate('/sicks/home');
+            }
+        }
+    }, [navigate]);
 
     const handleEmailChange = (event) => {
         setEmail(event.target.value);
@@ -38,22 +53,24 @@ const Login = () => {
             let userData = {};
             if (doctorDoc.exists()) {
                 userData = doctorDoc.data();
+                userData.role = 'doctor';
                 localStorage.setItem('userIsLoggedIn', 'true');
                 localStorage.setItem('userData', JSON.stringify(userData));
                 setMessage('Login successful!');
                 setMessageType('success');
                 setTimeout(() => {
-                  navigate('/doctors/home');
-              }, 1200);
+                    navigate('/doctors/home');
+                }, 1200);
             } else if (sickDoc.exists()) {
                 userData = sickDoc.data();
+                userData.role = 'sick';
                 localStorage.setItem('userIsLoggedIn', 'true');
                 localStorage.setItem('userData', JSON.stringify(userData));
                 setMessage('Login successful!');
                 setMessageType('success');
                 setTimeout(() => {
-                  navigate('/sicks/home/');
-              }, 1200);
+                    navigate('/sicks/home');
+                }, 1200);
             } else {
                 throw new Error('User data not found');
             }

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { auth, db } from '../database';
 import { useNavigate } from 'react-router-dom';
 import { createUserWithEmailAndPassword } from "firebase/auth";
@@ -140,17 +140,32 @@ const Register = () => {
         setName(event.target.value);
     };
 
+    useEffect(() => {
+        // Check if the user is already logged in
+        const userIsLoggedIn = localStorage.getItem('userIsLoggedIn');
+        const userData = JSON.parse(localStorage.getItem('userData'));
+
+        if (userIsLoggedIn && userData) {
+            // Navigate to the appropriate home page
+            if (userData.role === 'doctor') {
+                navigate('/doctors/home');
+            } else if (userData.role === 'sick') {
+                navigate('/sicks/home');
+            }
+        }
+    }, [navigate]);
+
     const handleRegister = async (event) => {
         event.preventDefault();
-
+    
         try {
             // Create user with email and password
             const userCredential = await createUserWithEmailAndPassword(auth, email, password);
             const user = userCredential.user;
-
+    
             console.log("User created: ", user); // Debugging line
             console.log("Firestore instance in handleRegister: ", db); // Debugging line
-
+    
             // Prepare user data
             const userData = {
                 name,
@@ -160,24 +175,27 @@ const Register = () => {
                 address,
                 uid: user.uid,
                 photoProfileUrl: 'https://i.pinimg.com/564x/4e/22/be/4e22beef6d94640c45a1b15f4a158b23.jpg',
+                role: userType,
             };
-
+    
             if (userType === 'doctor') {
                 userData.specializationType = specializationType;
                 userData.specialization = specialization;
                 userData.subSpecialization = subSpecialization;
-
+                userData.numberOfPatients = 0; 
+                userData.ReservationSicks = [];
+    
                 // Add doctor to Firestore
                 await setDoc(doc(db, 'doctors', user.uid), userData);
                 console.log("Doctor document created in Firestore"); // Debugging line
             } else if (userType === 'sick') {
                 userData.ssn = ssn;
-
+    
                 // Add sick user to Firestore
                 await setDoc(doc(db, 'sicks', user.uid), userData);
                 console.log("Sick document created in Firestore"); // Debugging line
             }
-
+    
             // Handle successful registration
             setMessage('Registration successful!');
             setMessageType('success');
@@ -191,6 +209,7 @@ const Register = () => {
             setMessageType('error');
         }
     };
+    
 
     return (
         <div className="signup">
@@ -271,7 +290,7 @@ const Register = () => {
                                 <input type="text" id="ssn" placeholder="Enter your social insurance Number" value={ssn} onChange={handleSSNChange} required />
                             </div>
                             <div className="input-box">
-                                <input type="text" id="address" placeholder="Enter your address" value={address} onChange={handleAddressChange} required />
+                                <input type="text" id="address" placeholder="Enter your Street, City, State" value={address} onChange={handleAddressChange} required />
                             </div>
                         </>
                     )}
